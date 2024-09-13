@@ -133,7 +133,7 @@ global.princegp = 'https://whatsapp.com/channel/0029VadwOWk1CYoM13U2gc00'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.Princelog = 'https://file2link1-eeb53eff9443.herokuapp.com/dl/66e49c009e02fc4ea3806c25.jpeg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
